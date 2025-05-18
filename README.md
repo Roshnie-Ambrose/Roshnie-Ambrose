@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roshnie-Ambrose
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Selenium using Python
 - 📫 How to reach me ambrose.roshnie@gmail.com
 - 😄 Pronouns: She/Her
 
